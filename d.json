@@ -1,0 +1,73 @@
+[
+    {
+        "id": "2",
+         "name": "Breast Cancer Wisconsin (Diagnostic) Data Set", 
+         "type": " ", 
+         "location": "Wisconsin, USA", 
+         "creationDate": "2016-09-19", 
+         "description": "Predict whether the cancer is benign or malignant", 
+         "connectionURL": "https://www.kaggle.com/uciml/breast-cancer-wisconsin-data/metadata", 
+         "size": "125 kb", 
+         "administrator": "UCI machine Learning", 
+         "filenameExtension": "CSV"}, 
+    {
+        "id": 4, 
+         "IngestionMode": "batch", 
+         "IngestionStartTime": "2021-04-14T15:58:59.018Z", 
+         "definedDuration": 11, 
+         "IngestionEndTime": "2021-04-15T02:58:59.018Z", 
+         "IngestionMethodName": "custom IDEAS_use_case", 
+         "IngestionSourceCodeUrl": "srlbd.****.****/user0120/projetingestion/mimic/sourcecode/", 
+         "IngestionBinaryMachineCodeUrl": "srlbd.****.****/user0120/projetingestion/mimic/", 
+         "IngestionEnvironnement": "jre", 
+         "IngestionOutputLog": "", 
+         "IngestionErrorLog": "", 
+         "IngestionComment": ""}, 
+    {
+        "id": 6, 
+         "name": "Cancer cell", 
+         "comment": "Features are computed from a digitized image of a fine needle aspirate (FNA) of a breast mass. They describe characteristics of the cell nuclei present in the image."}, 
+    {
+        "id": 12, 
+         "name": "id", 
+         "type": "Numeric"},
+    {
+        "id": 13,
+         "name": "diagnosis", 
+         "type": "String"},
+    {
+        "id": 14,
+         "name": "radius", 
+         "type": "float"}, 
+    {
+        "id": 15,
+         "name": "smoothness", 
+         "type": "float"}, 
+    {
+        "name": "Number of missing values in dataset",
+         "setOfQualityValues": "", 
+         "formula": "count(Nan)", 
+         "values": "9/10"}, 
+    {
+        "id": 4, 
+         "name": "Missing values", 
+         "unit": "count(Nan)"}, 
+    {
+        "id": 2, 
+         "name": "Quantitative dimension", 
+         "description": "only numerical values"},
+    {
+        "owner": "UCI Machine Learning",
+         "CreationDate":"2016-09-19", 
+         "name":"DATAI Wisconsin, USA",
+         "location":"Wisconsin University, USA", 
+         "id":2, 
+         "type":"Semi -structured"},
+    {
+        "id": 2,
+         "description": "Kaggle.com"},
+    {
+        "id":4,
+         "lastName":"Dupont",
+         "firstName":"Jean",
+         "privilege":"All"}]
